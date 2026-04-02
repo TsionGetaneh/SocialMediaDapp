@@ -1,0 +1,19 @@
+# Node
+node_modules/
+npm-debug.log*
+
+# Hardhat
+artifacts/
+cache/
+
+# Environment variables
+.env
+.env.*
+
+# Frontend
+frontend/node_modules/
+frontend/build/
+
+# OS files
+.DS_Store
+Thumbs.db
