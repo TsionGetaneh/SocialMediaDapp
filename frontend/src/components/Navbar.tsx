@@ -1,7 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import { formatAddress, getIPFSUrl } from "../utils/contract";
-import { Wallet, MessageSquare, Search } from "lucide-react";
+import { Wallet,  Search } from "lucide-react";
 
 interface NavbarProps {
   account: string | null;
