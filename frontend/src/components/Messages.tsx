@@ -1,6 +1,6 @@
 import React, { useState, useEffect, useCallback } from 'react';
 import { ethers } from 'ethers';
-import { Send, User, MessageSquare, Loader2, ArrowLeft } from 'lucide-react';
+import { Send,  MessageSquare, Loader2, ArrowLeft } from 'lucide-react';
 import { formatAddress } from '../utils/contract';
 import { toast } from 'react-toastify';
 
