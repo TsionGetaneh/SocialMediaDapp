@@ -1,10 +1,10 @@
 import React, { useState } from "react";
 import {
-  Heart,
-  HeartOff,
+  
+  
   MessageCircle,
   DollarSign,
-  ExternalLink,
+  
   UserPlus,
   UserMinus,
   Send,
